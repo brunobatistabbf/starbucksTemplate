@@ -4,4 +4,4 @@
 
 # Responsividade
 
-
+<img src="assets/images/tela-mobile.png" alt="Tela Cell">
