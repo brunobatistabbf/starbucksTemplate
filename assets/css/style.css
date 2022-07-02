@@ -151,3 +151,38 @@ header .line {
   margin-bottom: 30px;
   line-height: 25px;
 }
+
+/*Area 2*/
+.area2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.area2--content {
+  padding: 5rem;
+}
+
+.area2--img1 {
+  
+  background-image: url("../images/f3.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+}
+
+.area2--content h2 {
+  font-weight: bold;
+  font-family: "Oswald";
+  font-size: 36px;
+  margin: 20px 0;
+  line-height: 45px;
+}
+
+.area2--quote {
+  margin-bottom: 30px;
+}
+
+.area2--text {
+  margin-bottom: 30px;
+  line-height: 25px;
+}
